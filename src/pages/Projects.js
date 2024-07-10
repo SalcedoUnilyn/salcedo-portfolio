@@ -22,7 +22,7 @@ const Projects = () => {
                     <div className="project-side">
                         <div className="project-card dark-bg">
                             <div className="project-info">
-                                <h2>Colloquium Poster Contest</h2>
+                                <h2>Pre Oral Defense</h2>
                             </div>
                             <div className="project-image zoom">
                                 <img src={colloquiumImage} alt="Dashboard Project" />
@@ -42,7 +42,7 @@ const Projects = () => {
                     <div className="project-side">
                         <div className="project-card dark-bg">
                             <div className="project-info">
-                                <h2>Inventory Control System</h2>
+                                <h2>BSIT 3rd Colloquium</h2>
                             </div>
                             <div className="project-image zoom">
                                 <img src={loginImage} alt="Dashboard Project" />
